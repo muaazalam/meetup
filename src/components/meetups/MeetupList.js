@@ -14,4 +14,4 @@ const MeetupList = (props) => {
   </ul>
 }
 
-export default MeetupList
+export default MeetupList 
